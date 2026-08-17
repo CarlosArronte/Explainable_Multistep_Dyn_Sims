@@ -21,6 +21,6 @@ Thumbs.db
 *.log
 
 # DS
-.csv
+*.csv
 .txt
 /Modelos Entrenados Predictor/DS/
