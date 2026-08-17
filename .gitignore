@@ -24,3 +24,6 @@ Thumbs.db
 *.csv
 .txt
 /Modelos Entrenados Predictor/DS/
+
+#Debug
+*.png
