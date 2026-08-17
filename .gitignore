@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+*.env
+/Modelos Entrenados Predictor/GP/GP/
+
+# Logs
+*.log
+
+# DS
+.csv
+.txt
+/Modelos Entrenados Predictor/DS/
